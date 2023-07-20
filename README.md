@@ -15,10 +15,6 @@
 </div>
 
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jendma&style=flat-square&color=blue" alt=""/>
-</div>
-
-<div id="badges" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
 </div>
 
