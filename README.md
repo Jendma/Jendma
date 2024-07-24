@@ -19,9 +19,9 @@
 </div>
 
 ### Hi!👋 I'm Tulus Setiawan
-A fresh graduate, a long-life learner with a passion for mathematics, data science, machine learning, finance, and technology.
+A Data and AI enthusiast, a long-life learner with a passion for mathematics, data science, machine learning, finance, and technology.
 
-- 🔭 I’m currently studying at Universitas Indonesia
+- 🔭 I’m a graduate of Universitas Indonesia
 - 🌱 I’m currently learning Data Science, Data Analytics, and Machine Learning Engineering.
 - 👯 Feel free to ask me to collaborate on Data Science and Machine Learning project.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/TulusSetiawan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tulus-setiawan/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/tulus.setiawan01@sci.ui.ac.id/)
