@@ -19,7 +19,7 @@
 </div>
 
 ### Hi!👋 I'm Tulus Setiawan
-An Undergraduate student, a long-life learner with a passion for mathematics, data science, machine learning, finance, and technology.
+A fresh graduate, a long-life learner with a passion for mathematics, data science, machine learning, finance, and technology.
 
 - 🔭 I’m currently studying at Universitas Indonesia
 - 🌱 I’m currently learning Data Science, Data Analytics, and Machine Learning Engineering.
