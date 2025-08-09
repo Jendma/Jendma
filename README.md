@@ -30,6 +30,7 @@ A long-life learner with a passion for mathematics, data science, machine learni
 ### :hammer_and_wrench: Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,ubuntu,vscode,docker,git,gcp,postgresql,fastapi" />
+  <img src="https://skills.syvixor.com/api/icons?i=langchain,huggingface,qdrant" />
 </p>
 
 ### :fire: Github Statistic
